@@ -1,0 +1,3 @@
+Jogo da mémoria, criado em python. divirta-se.
+
+@tulio._.vieira
