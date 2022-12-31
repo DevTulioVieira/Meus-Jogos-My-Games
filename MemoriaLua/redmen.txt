@@ -1,0 +1,3 @@
+Jogo da memoria, usando lua e love2d. Ainda em desenvolvimento, mais com o basico ja em funcionamento. 
+
+@tulio._.vieira
