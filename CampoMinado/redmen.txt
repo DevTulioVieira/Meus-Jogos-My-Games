@@ -1,0 +1,3 @@
+Jogo campo minado, criado em c++. Ainda em finalização, falta somente função de reinicio, é melhora a otimização.
+
+@tulio._.vieira
